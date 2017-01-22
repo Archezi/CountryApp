@@ -1,0 +1,14 @@
+{
+  "name": "lecture2",
+  "version": "1.0.0",
+  "description": "A bootrstraped angular app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott O'Malley",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
